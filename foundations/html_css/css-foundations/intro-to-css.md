@@ -388,13 +388,6 @@ If you need to add a _unique_ style for a _single_ element, this method can work
 - If you want many elements to have the same style, you would have to copy + paste the same style to each individual element, causing lots of unnecessary repetition and more bloat.
 - Any inline CSS will override the other two methods, which can cause unexpected results. (While we won't dive into it here, this can actually be taken advantage of).
 
-### Assignment
-
-<div class="lesson-content__panel" markdown="1">
-
-1.  Go to our [CSS exercises repository](https://github.com/TheOdinProject/css-exercises), read the README, and only do the exercises in the `foundations` directory in the order they're listed, starting with `01-css-methods` and ending with `05-descendant-combinator`.
-
-</div>
 
 ### Knowledge Check
 
@@ -407,8 +400,4 @@ This section contains questions for you to check your understanding of this less
 - <a class="knowledge-check-link" href="#adding-css-to-html">What are the names of the three ways to add CSS to HTML?</a>
 - <a class="knowledge-check-link" href="#external-css">What are the main differences between the three ways of adding CSS to HTML?</a>
 
-### Additional Resources
 
-This section contains helpful links to related content. It isn’t required, so consider it supplemental.
-
-- [Mozilla CSS values and units](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units) can be used to learn the various types of values possible in absolute or relative terms.
