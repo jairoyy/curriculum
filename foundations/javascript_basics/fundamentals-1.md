@@ -115,8 +115,3 @@ This section contains questions for you to check your understanding of this less
 - [How do you log information to the console?](#console-log)
 - [What does unary plus operator do to string representations of integers? eg. +"10"](https://javascript.info/operators#numeric-conversion-unary)
 
-### Additional resources
-
-This section contains helpful links to other content. It isn't required, so consider it supplemental.
-
-- The precise differences between `var` and `let` is explained in [javascript.info](https://javascript.info/var).
